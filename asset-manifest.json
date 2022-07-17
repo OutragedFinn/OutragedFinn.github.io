@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.77facffe.css",
+    "main.css": "/static/css/main.7831dbe8.css",
     "main.js": "/static/js/main.613e6bf1.js",
     "static/media/instagram.png": "/static/media/instagram.86e3c09c02cb3ce3cbe4.png",
     "static/media/mythos.png": "/static/media/mythos.dce079f3721e4214dd83.png",
@@ -8,11 +8,11 @@
     "static/media/reddit.png": "/static/media/reddit.93d74d4f97b55343c0b7.png",
     "static/media/discord.png": "/static/media/discord.eab5da4d8b7cfc2b1504.png",
     "index.html": "/index.html",
-    "main.77facffe.css.map": "/static/css/main.77facffe.css.map",
+    "main.7831dbe8.css.map": "/static/css/main.7831dbe8.css.map",
     "main.613e6bf1.js.map": "/static/js/main.613e6bf1.js.map"
   },
   "entrypoints": [
-    "static/css/main.77facffe.css",
+    "static/css/main.7831dbe8.css",
     "static/js/main.613e6bf1.js"
   ]
 }
