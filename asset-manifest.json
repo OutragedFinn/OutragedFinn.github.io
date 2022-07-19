@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.7831dbe8.css",
-    "main.js": "/static/js/main.613e6bf1.js",
+    "main.css": "/static/css/main.0d9a05e2.css",
+    "main.js": "/static/js/main.e7f22b79.js",
+    "static/media/olympus.png": "/static/media/olympus.430242c4115c3dc70324.png",
+    "static/media/front.png": "/static/media/front.db4afaf6ecdf76936ced.png",
     "static/media/instagram.png": "/static/media/instagram.86e3c09c02cb3ce3cbe4.png",
+    "static/media/underground.png": "/static/media/underground.46601f49a30f7f87e319.png",
+    "static/media/hades.png": "/static/media/hades.abb75200d75f9e4efb54.png",
     "static/media/mythos.png": "/static/media/mythos.dce079f3721e4214dd83.png",
     "static/media/tiktok.png": "/static/media/tiktok.065ae0029dfa04d445a9.png",
     "static/media/reddit.png": "/static/media/reddit.93d74d4f97b55343c0b7.png",
     "static/media/discord.png": "/static/media/discord.eab5da4d8b7cfc2b1504.png",
     "index.html": "/index.html",
-    "main.7831dbe8.css.map": "/static/css/main.7831dbe8.css.map",
-    "main.613e6bf1.js.map": "/static/js/main.613e6bf1.js.map"
+    "main.0d9a05e2.css.map": "/static/css/main.0d9a05e2.css.map",
+    "main.e7f22b79.js.map": "/static/js/main.e7f22b79.js.map"
   },
   "entrypoints": [
-    "static/css/main.7831dbe8.css",
-    "static/js/main.613e6bf1.js"
+    "static/css/main.0d9a05e2.css",
+    "static/js/main.e7f22b79.js"
   ]
 }
