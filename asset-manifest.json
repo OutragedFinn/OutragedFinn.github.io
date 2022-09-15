@@ -1,22 +1,19 @@
 {
   "files": {
-    "app.js": "/static/js/app.a54db2e0.chunk.js",
-    "app.js.map": "/static/js/app.a54db2e0.chunk.js.map",
-    "runtime~app.js": "/static/js/runtime~app.27401809.js",
-    "runtime~app.js.map": "/static/js/runtime~app.27401809.js.map",
-    "static/js/2.0ce589ce.chunk.js": "/static/js/2.0ce589ce.chunk.js",
-    "static/js/2.0ce589ce.chunk.js.map": "/static/js/2.0ce589ce.chunk.js.map",
-    "favicon-16.png": "/favicon-16.png",
-    "favicon-32.png": "/favicon-32.png",
-    "favicon.ico": "/favicon.ico",
+    "main.css": "/static/css/main.3800b78c.css",
+    "main.js": "/static/js/main.21b966f3.js",
+    "static/js/787.cc05756a.chunk.js": "/static/js/787.cc05756a.chunk.js",
+    "static/media/mythos.png": "/static/media/mythos.dce079f3721e4214dd83.png",
+    "static/media/dude.png": "/static/media/dude.4c77caa8fae05f099b8c.png",
+    "static/media/man.png": "/static/media/man.4a9b249edd47b478069c.png",
+    "static/media/discord.png": "/static/media/discord.eab5da4d8b7cfc2b1504.png",
     "index.html": "/index.html",
-    "manifest.json": "/manifest.json",
-    "serve.json": "/serve.json",
-    "static/js/2.0ce589ce.chunk.js.LICENSE.txt": "/static/js/2.0ce589ce.chunk.js.LICENSE.txt"
+    "main.3800b78c.css.map": "/static/css/main.3800b78c.css.map",
+    "main.21b966f3.js.map": "/static/js/main.21b966f3.js.map",
+    "787.cc05756a.chunk.js.map": "/static/js/787.cc05756a.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime~app.27401809.js",
-    "static/js/2.0ce589ce.chunk.js",
-    "static/js/app.a54db2e0.chunk.js"
+    "static/css/main.3800b78c.css",
+    "static/js/main.21b966f3.js"
   ]
 }
