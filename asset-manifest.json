@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.81ba0357.css",
-    "main.js": "/static/js/main.6c7b69a4.js",
+    "main.js": "/static/js/main.86535e78.js",
     "static/media/mythos.png": "/static/media/mythos.dce079f3721e4214dd83.png",
     "static/media/dude.png": "/static/media/dude.4c77caa8fae05f099b8c.png",
     "static/media/man.png": "/static/media/man.4a9b249edd47b478069c.png",
     "static/media/discord.png": "/static/media/discord.eab5da4d8b7cfc2b1504.png",
     "index.html": "/index.html",
     "main.81ba0357.css.map": "/static/css/main.81ba0357.css.map",
-    "main.6c7b69a4.js.map": "/static/js/main.6c7b69a4.js.map"
+    "main.86535e78.js.map": "/static/js/main.86535e78.js.map"
   },
   "entrypoints": [
     "static/css/main.81ba0357.css",
-    "static/js/main.6c7b69a4.js"
+    "static/js/main.86535e78.js"
   ]
 }
